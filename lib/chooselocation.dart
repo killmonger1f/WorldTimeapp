@@ -61,7 +61,7 @@ class _LocationState extends State<Location> {
             appBar: AppBar(
               backgroundColor: Colors.orange[300],
               title: Text(
-                'LOCATION',
+                'CHOOSE LOCATION',
                 style: TextStyle(
                   letterSpacing: 5.0,
                   fontWeight: FontWeight.bold,

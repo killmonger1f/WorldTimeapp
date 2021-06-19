@@ -12,7 +12,7 @@ class Worldtime {
   String flag;
   String url;
   String time;
-  bool isday;
+  bool isday = true;
   Worldtime({this.flag, this.location, this.url, this.country});
 
   Future<void> gettime() async {
