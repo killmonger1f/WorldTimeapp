@@ -1,6 +1,6 @@
-# worldtimeapp
+# World Time app
 
-A new Flutter project.
+A new Flutter project using World Time API which displays time in the chosen location .
 
 ## Getting Started
 
