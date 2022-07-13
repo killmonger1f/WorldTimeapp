@@ -2,6 +2,8 @@
 
 A new Flutter project using World Time API which displays time in the chosen location .
 
+https://user-images.githubusercontent.com/83609788/178771461-f7c20d71-6dd3-45f8-bae8-f4b4cdeb3973.mp4
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
